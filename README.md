@@ -31,7 +31,11 @@ The dashboard helps analyze sales executive performance across different cities.
 - Data Analysis
 ## Purpose of the Dashboard
 The purpose of this dashboard is to track sales performance, compare sales executives, identify top and low performers, and monitor target achievement in a simple visual format.
+# Excel Sales Performance Dashboard
 ## Dashboard Preview
-[Excel Sales Performance Dashboard](Images/Excel Sales Performance Dashboard_Preview.png)
+[![Dashboard Preview](Excel%20Sales%20Performance%20Dashboard.JPG)](Excel%20Sales%20Performance%20Dashboard.JPG)
+## Files Included
+- Sales Dashboard Project.xlsm
+- Excel Sales Performance Dashboard.JPG
 ## Conclusion
 This project helped me improve my Excel dashboarding, data analysis, and data visualization skills.
